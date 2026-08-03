@@ -11,13 +11,7 @@ Decide what to send, or whether to send anything, when someone has gone quiet af
 
 "They haven't replied" is not one situation, it usually hides several genuinely different ones: plain silence with nothing else going on, silence sitting behind a specific unanswered question, or an explicit decline that should not be followed up on at all. A generic nudge on a timer gets at least one of these wrong.
 
-```mermaid
-flowchart TB
-    A["1. Paste what was sent and what has happened since"]
-    B["2. Decided: follow up, wait, reframe, close, or stop"]
-    C["3. A message anchored to something real, or nothing at all"]
-    A --> B --> C
-```
+![A decision tree for choosing a useful response when someone goes quiet.](assets/diagrams/18-the-quiet-follow-up.svg)
 
 ## Use It
 
