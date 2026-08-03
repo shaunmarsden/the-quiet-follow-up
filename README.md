@@ -39,10 +39,6 @@ No installation, project, or coding required to try it once.
 
 This proposes what to send and why, or that nothing should be sent. Sending anything stays your own deliberate decision.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it on a real case? [Start a discussion](https://github.com/shaunmarsden/the-quiet-follow-up/discussions) if a decision did not fit.
