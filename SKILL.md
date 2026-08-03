@@ -55,4 +55,4 @@ Do not draft a follow-up when:
 
 This proposes what to send and why, or that nothing should be sent. Sending it stays subject to explicit human approval.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/decision-template.md) for your own case.
+For a fictional worked example, three people who signed up and went quiet, read [the worked example](example/). For the harder case, a reply that looks like silence but is not, read [the second worked example](example-two/). Use [the blank template](templates/decision-template.md) for your own case, and [the review checklist](checks/checklist.md) before sending anything.

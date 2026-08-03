@@ -11,6 +11,14 @@ Decide what to send, or whether to send anything, when someone has gone quiet af
 
 "They haven't replied" is not one situation, it usually hides several genuinely different ones: plain silence with nothing else going on, silence sitting behind a specific unanswered question, or an explicit decline that should not be followed up on at all. A generic nudge on a timer gets at least one of these wrong.
 
+```mermaid
+flowchart TB
+    A["1. Paste what was sent and what has happened since"]
+    B["2. Decided: follow up, wait, reframe, close, or stop"]
+    C["3. A message anchored to something real, or nothing at all"]
+    A --> B --> C
+```
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in what was originally sent and anything that has happened since. It decides:
@@ -18,9 +26,18 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 - **Follow up now**, **wait**, **change the contact**, **answer something first**, **reframe**, **close the loop**, or **stop**, whichever actually fits
 - A message anchored to something real and specific to the other person, never to your own schedule or process
 
-See [the worked example](example/): a food bank volunteer coordinator with three people who signed up and went quiet, one needing a plain, well-anchored follow-up, one with an unanswered question that needs answering before anything else, and one who explicitly declined and needs nothing sent at all.
+<details>
+<summary><strong>See exactly what it produces</strong></summary>
 
-Use [the blank template](templates/decision-template.md) for your own case.
+1. The decision made, one of the seven options, stated plainly with its reason
+2. Where relevant, a drafted message anchored to something specific the other person said or did
+3. Where a message would not be right, a clear statement that nothing should be sent, and why
+
+</details>
+
+See [the worked example](example/): a food bank volunteer coordinator with three people who signed up and went quiet, one needing a plain, well-anchored follow-up, one with an unanswered question that needs answering before anything else, and one who explicitly declined and needs nothing sent at all. For a harder case, a fourth volunteer who replied with hesitation rather than going quiet, read [the second worked example](example-two/).
+
+Use [the blank template](templates/decision-template.md) for your own case, and [the review checklist](checks/checklist.md) before sending anything.
 
 No installation, project, or coding required to try it once.
 
