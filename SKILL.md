@@ -5,7 +5,7 @@ description: Decide what to send, or whether to send anything, when someone has 
 
 # The Quiet Follow-Up
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then follow it with your actual inputs.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then follow it with your actual inputs.
 
 A follow-up is a decision, not a template applied on a timer. Before drafting anything, work out what actually happened: has this gone quiet because of genuine disinterest, a change of circumstance, a busy period, or an unanswered question sitting in the way? Each calls for something different, and some call for not following up at all.
 
