@@ -9,7 +9,7 @@ Decide what to send, or whether to send anything, when someone has gone quiet af
 
 ## Why
 
-"They haven't replied" usually covers several different situations. There's plain silence with nothing else going on. There's silence behind a question of theirs that nobody answered. And there's a clear no, which you shouldn't follow up at all. A generic nudge on a timer gets at least one of these wrong.
+"They haven't replied" often covers several different situations. There's plain silence with nothing else going on. There's silence behind a question of theirs that nobody answered. And there's a clear no, which you shouldn't follow up at all. A generic nudge on a timer gets at least one of these wrong.
 
 [![A decision tree for choosing a useful response when someone goes quiet.](assets/diagrams/18-the-quiet-follow-up.svg)](SKILL.md)
 

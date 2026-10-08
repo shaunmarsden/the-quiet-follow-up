@@ -10,6 +10,7 @@ I checked [output.md](output.md) against what I built [cases.md](cases.md) to te
 
 ## What Still Needs a Human Check
 
+- Case B's reply says there's parking on site and that the number 12 bus stops outside. The case gives neither fact. A real reply needs the true answer, because Alicia is planning her morning around it.
 - Case A's shift time and date are made up. In real use, the message would need a detail that's actually correct, not one that only looks specific.
 - Whether "two weeks" is long enough to justify a follow-up depends on context the skill doesn't have. A fast-moving event needs a shorter wait than an ongoing role.
 
