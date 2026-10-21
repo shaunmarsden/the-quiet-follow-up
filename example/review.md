@@ -5,7 +5,7 @@ I checked [output.md](output.md) against what I built [cases.md](cases.md) to te
 ## What Worked
 
 - **It told plain silence apart from an unanswered question.** Case A and Case B could both look like "they haven't replied," but Alicia asked a specific question that nobody answered. The output chose to answer it first, rather than sending a generic nudge on top of an ignored question. That's the mistake this skill exists to catch.
-- **It respected the clear no.** Owen gave a clear, specific reason. The output didn't draft a soft "just checking if you've reconsidered" message, which would have ignored a direct answer. It produced no message at all for this case.
+- **It respected the clear no.** Alaric gave a clear, specific reason. The output didn't draft a soft "just checking if you've reconsidered" message, which would have ignored a direct answer. It produced no message at all for this case.
 - **It showed the weak message and didn't use it.** Case A's output includes the generic "just following up" version to show what not to send, next to the stronger version that names the real shift and time. Seeing the two side by side shows the difference rather than just claiming it.
 
 ## What Still Needs a Human Check
